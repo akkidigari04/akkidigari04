@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on amazon
-- 📫 How to reach me https://www.linkedin.com/in/akansha-digari-03764624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me https://www.linkedin.com/in/akansha-digari-03764624a/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
